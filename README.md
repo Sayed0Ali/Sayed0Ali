@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hello, My Name is Sayed Ali
 
-<!--
-**Sayed0Ali/Sayed0Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Software Engineer | Flutter Developer
 
-Here are some ideas to get you started:
+🚀 I’m currently learning Mobile Development with **Flutter**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 How to reach me: [sayedsabit@gmail.com](mailto:sayedsabit@gmail.com)
+
+---
+
+### 🌐 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayedsabit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+
+---
+
+### 🛠️ Languages and Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![Sayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayedali&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedali&layout=compact&theme=default)
+
+---
+
+### 🏆 GitHub Profile Achievements
+
+- 🚀 First Commit
+- 🔥 First PR
+- 👥 First Follower
+- 📦 High Repo Creator
+
+---
+
+### 📊 Most Used Languages
+
+- 🟪 C++ - 33.56%
+- 🟦 Dart - 25.62%
+- 🟨 CMake - 23.90%
+- 🟧 C - 12.74%
+- 🟥 Jupyter Notebook - 2.23%
+- 🟫 Swift - 1.95%
+
+---
+
+📌 *Last updated: May 2025*
