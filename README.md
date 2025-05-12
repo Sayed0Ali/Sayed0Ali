@@ -36,13 +36,8 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Sayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayedali&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayedali&layout=compact&theme=default)
-
----
 
 ### 🏆 GitHub Profile Achievements
 
