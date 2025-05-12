@@ -4,13 +4,13 @@
 
 🚀 I’m currently learning Mobile Development with **Flutter**
 
-📬 How to reach me: [sayedsabit@gmail.com](mailto:sayedsabit@gmail.com)
+📬 How to reach me: [sayedsabit@gmail.com](mailto:sayed202202704@gmail.com)
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sayed202202704@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/?utm_source=OGB&utm_medium=app&authuser=0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-ali-a4ab16356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FcYfU3PdA/?mibextid=qi2Omg)
 
