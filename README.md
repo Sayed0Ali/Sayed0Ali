@@ -4,7 +4,7 @@
 
 🚀 I’m currently learning Mobile Development with **Flutter**
 
-📬 How to reach me: [sayedsabit@gmail.com](mailto:sayed202202704@gmail.com)
+📬 How to reach me: [sayed202202704@gmail.com](mailto:sayed202202704@gmail.com)
 
 ---
 
