@@ -1,14 +1,12 @@
-# 👋 Hello, My Name is Sayed Ali
+#  My Name is Sayed Ali
 
 ### 🧑‍💻 Software Engineer | Flutter Developer
 
-🚀 I’m currently learning Mobile Development with **Flutter**
-
-📬 How to reach me: [sayed202202704@gmail.com](mailto:sayed202202704@gmail.com)
+📬 How to reach me: [sayed202202704@gmail.com](mailto:‏‪sayed3li.dev@gmail.com‬‏)
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/?utm_source=OGB&utm_medium=app&authuser=0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-ali-a4ab16356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -50,13 +48,10 @@
 
 ### 📊 Most Used Languages
 
-- 🟪 C++ - 33.56%
-- 🟦 Dart - 25.62%
-- 🟨 CMake - 23.90%
-- 🟧 C - 12.74%
-- 🟥 Jupyter Notebook - 2.23%
-- 🟫 Swift - 1.95%
+- 🟦 Dart
+- 🟪 C++ 
+- 🟨 CMake 
+- 🟧 C 
+- 🟥 Jupyter Notebook 
+- 🟫 Swift 
 
----
-
-📌 *Last updated: May 2025*
