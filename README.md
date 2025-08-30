@@ -2,7 +2,7 @@
 
  Software Engineer | Flutter Developer
 
- How to reach me: [sayed202202704@gmail.com](mailto:‏‪sayed3li.dev@gmail.com‬‏)
+ How to reach me: [sayed3li.dev@gmail.com](mailto:‏‪sayed3li.dev@gmail.com‬‏)
 
 ---
 
